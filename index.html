@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Stevenson Rudolph Jeudy| WDD 130</title>
+    <meta name="description" content="Stevenson Rudolph Jeudy's BYU-Idaho WDD130 course home page">
+    <meta name="author" content="Stevenson Rudolph Jeudy">
+     <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="#">Home</a>
+            <a href="wwr/">Rafting Website</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Stevenson Rudolph Jeudy | WDD 130</h1>
+        <img src="images/profile.jpg" alt="Profile photo of  Stevenson Rudolph Jeudy." width="200">
+        <p>Hello! My name is Stevenson Rudolph Jeudy. I am 29 years old and I live in Port-au-Prince, Haiti. I am happy to be one of the students in this great class.</p>
+        
+    </main>
+    <aside>
+       <h2>Citadelle Laferrière</h2>
+       <img src="images/Citadelle-laferriere.jpg" alt="Citadelle Laferrière">
+       <p>The Citadelle Laferrière, also known as Citadelle Henri, built at an altitude of nine hundred meters, was constructed in the early 19th century under the orders of Emperor Jean-Jacques Dessalines to protect the northern part of the island against a possible return of the French after Haiti's independence in 1804.</p>
+    </aside>
+    <footer>
+        <p>&copy; 2025 Stevenson Rudolph Jeudy , Port-Au-Prince, Haiti</p>
+    </footer>
+</body>
+</html>
